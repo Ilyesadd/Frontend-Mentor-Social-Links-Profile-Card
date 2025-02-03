@@ -1,6 +1,6 @@
 # Frontend Mentor - Social Links Profile Card
 
-![Design preview for the Social Links Profile Card coding challenge](./design/activate)
+![Design preview for the Social Links Profile Card coding challenge](./design/destkop-design.jpg)
 
 ## Bienvenue ! 👋
 
