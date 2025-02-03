@@ -4,7 +4,7 @@
 
 ## Bienvenue ! 👋
 
-Ce projet est une solution au défi [**Social Links Profile Card**](https://www.frontendmentor.io/challenges/social-links-profile-card-7e3vzYr7) de **Frontend Mentor**. L'objectif était de créer une carte de profil centrée et responsive, avec des liens sociaux interactifs, en utilisant **HTML** et **CSS**.
+Ce projet est une solution au défi [**Social Links Profile Card**](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) de **Frontend Mentor**. L'objectif était de créer une carte de profil centrée et responsive, avec des liens sociaux interactifs, en utilisant **HTML** et **CSS**.
 
 ---
 
